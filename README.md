@@ -70,7 +70,7 @@ The cleaned dataset was exported and loaded into **MySQL Workbench**, where SQL 
 - Top 10 doctors by number of patients treated
 - *(...and more, see full query file)*
 
-📄 SQL File: [`sql/healthcare_analysis_queries.sql`](sql/healthcare_analysis_queries.sql)
+📄 SQL File: [`SQL/Health Cleaning dataset.sql`](SQL/Health Cleaning dataset.sql)
 
 ```sql
 -- Example: Patients by Medical Condition

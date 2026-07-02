@@ -143,15 +143,15 @@ Revenue by insurance provider, billing by medical condition, monthly revenue tre
 Healthcare-Analytics-Dashboard/
 │
 ├── README.md
-├── data/
+├── Dataset/
 │   └── healthcare_dataset.csv
-├── python/
+├── Python/
 │   └── Healthcare_Cleaning.ipynb
-├── sql/
+├── SQL/
 │   └── healthcare_analysis_queries.sql
-├── powerbi/
+├── Power BI/
 │   └── Healthcare_Dashboard.pbix
-└── images/
+└── Images/
     └── (dashboard screenshots + chart exports)
 ```
 
@@ -163,18 +163,6 @@ Healthcare-Analytics-Dashboard/
 - **Database:** MySQL Workbench
 - **BI Tool:** Power BI Desktop (DAX, Power Query, AI Visuals)
 - **AI Assistance:** Used Claude AI to assist with structuring the analysis workflow and documentation
-
----
-
-## 🚀 How to Reproduce
-
-1. Clone this repository
-   ```bash
-   git clone https://github.com/ankitrai84/Healthcare-Analytics-Dashboard.git
-   ```
-2. Open `python/Healthcare_Cleaning.ipynb` in Jupyter Notebook and run all cells to reproduce the cleaned dataset and charts
-3. Import the cleaned data into MySQL Workbench and run the queries in `sql/healthcare_analysis_queries.sql`
-4. Open `powerbi/Healthcare_Dashboard.pbix` in Power BI Desktop and refresh the data connection to your local MySQL instance
 
 ---
 

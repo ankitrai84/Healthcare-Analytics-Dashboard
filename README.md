@@ -49,11 +49,11 @@ Performed in Jupyter Notebook using Pandas, NumPy, Matplotlib and Seaborn.
 
 | Age Group Distribution | Admission Type Breakdown |
 |---|---|
-| ![Age Group](images/chart3_age_group.png) | ![Admission Type](images/chart4_admission_type.png) |
+| ![Age Group](Images/chart3_age_group.png) | ![Admission Type](Images/chart4_admission_type.png) |
 
 | Monthly Admission Trend | Insurance vs Test Results |
 |---|---|
-| ![Monthly Trend](images/chart5_monthly_trend.png) | ![Insurance Heatmap](images/chart6_insurance_heatmap.png) |
+| ![Monthly Trend](Images/chart5_monthly_trend.png) | ![Insurance Heatmap](Images/chart6_insurance_heatmap.png) |
 
 ---
 

@@ -38,14 +38,14 @@ Performed in Jupyter Notebook using Pandas, NumPy, Matplotlib and Seaborn.
   - `Admission Year` and `Admission Month` (for trend analysis in Power BI)
 - Generated exploratory visualizations to validate patterns before moving to SQL/BI
 
-📓 Notebook: [`python/Healthcare_Cleaning.ipynb`](Python/Healthcare Cleaning.ipynb)
+📓 Notebook: [`Python/Healthcare_Cleaning.ipynb`](Python/Healthcare Cleaning.ipynb)
 
 
 **Sample Visualizations from Python EDA:**
 
 | Medical Condition Distribution | Avg Billing by Condition |
 |---|---|
-| ![Medical Condition](images/chart1_medical_condition.png) | ![Avg Billing](images/chart2_avg_billing.png) |
+| ![Medical Condition](Images/chart1_medical_condition.png) | ![Avg Billing](Images/chart2_avg_billing.png) |
 
 | Age Group Distribution | Admission Type Breakdown |
 |---|---|

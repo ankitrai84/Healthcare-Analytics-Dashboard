@@ -13,7 +13,7 @@ An end-to-end data analytics project that takes a raw healthcare dataset from **
 
 This project simulates a real-world healthcare analytics workflow — from raw, messy data to a decision-ready executive dashboard. The goal was to demonstrate the **complete data analyst pipeline**: data cleaning → SQL querying → BI visualization → AI-assisted insights.
 
-**Dataset:** [Healthcare Dataset – Kaggle](https://www.kaggle.com/) (55,500 patient records)
+**Dataset:** [Healthcare Dataset – Kaggle](https://www.kaggle.com/datasets/prasad22/healthcare-dataset) (55,500 patient records)
 **Tools Used:** Python (Pandas, Matplotlib, Seaborn) · MySQL Workbench · Power BI Desktop
 
 ---

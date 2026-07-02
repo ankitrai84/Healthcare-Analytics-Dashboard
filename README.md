@@ -103,7 +103,7 @@ MySQL Workbench was connected directly to Power BI, and a fully interactive **3-
 | 📐 15+ DAX Measures | Custom calculations for KPIs across all 3 pages |
 | 🔍 Drilldown Charts | Click-through drill-down on trend and category charts |
 
-📊 Power BI File: [`powerbi/Healthcare_Dashboard.pbix`](powerbi/Healthcare_Dashboard.pbix)
+📊 Power BI File: [`powerbi/Healthcare_Dashboard.pbix`](Power BI/Healthcare_Dashboard.pbix)
 
 ---
 
@@ -112,17 +112,17 @@ MySQL Workbench was connected directly to Power BI, and a fully interactive **3-
 ### Page 1 — Executive Overview
 Total Patients, Revenue, Avg Length of Stay, Admission Trends, Age Group breakdown, and AI-generated insights.
 
-![Executive Overview](images/dashboard_page1_executive.png)
+![Executive Overview](Images/Healthcare_Dashboard_1.png)
 
 ### Page 2 — Clinical Analysis
 Medical condition breakdown, test result distribution, top medications, blood type analysis, and Power BI's Key Influencers visual.
 
-![Clinical Analysis](images/dashboard_page2_clinical.png)
+![Clinical Analysis](Images/Healthcare_Dashboard_2.png)
 
 ### Page 3 — Financial Insights
 Revenue by insurance provider, billing by medical condition, monthly revenue trend, and a full Decomposition Tree for revenue drill-down.
 
-![Financial Insights](images/dashboard_page3_financial.png)
+![Financial Insights](Images/Healthcare_Dashboard_3.png)
 
 ---
 

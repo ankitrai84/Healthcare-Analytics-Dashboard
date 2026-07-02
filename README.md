@@ -38,7 +38,8 @@ Performed in Jupyter Notebook using Pandas, NumPy, Matplotlib and Seaborn.
   - `Admission Year` and `Admission Month` (for trend analysis in Power BI)
 - Generated exploratory visualizations to validate patterns before moving to SQL/BI
 
-📓 Notebook: [`python/Healthcare_Cleaning.ipynb`](python/Healthcare_Cleaning.ipynb)
+📓 Notebook: [`python/Healthcare_Cleaning.ipynb`](Python/Healthcare Cleaning.ipynb)
+
 
 **Sample Visualizations from Python EDA:**
 
